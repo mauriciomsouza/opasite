@@ -35,7 +35,7 @@ h1, h2, h3, h4, h5, h6, p, a {
   padding: 0px; }
 
 h1 {
-  font-size: 3.6rem; }
+  font-size: 2.0rem; }
 
 h2 {
   font-size: 3.2rem; }
@@ -484,7 +484,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#095177', end
         max-width: 100%;
         margin-top: 60px; } }
     .download .intro h1 {
-      font-size: 6rem;
+      font-size: 3rem;
       margin: 20px 0 40px 0;
       color: white; }
     .download .intro p {
